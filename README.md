@@ -10,11 +10,11 @@ An end-to-end Product Analytics project built using Python, SQL, Machine Learnin
 
 ## Project Highlights
 
-- Generated a synthetic dataset with over 680,000 user interaction events.
-- Performed SQL-based product analytics to evaluate engagement metrics.
+- Generated a synthetic dataset to simulate user interactions on a short-video platform.
+- Performed SQL-based product analytics to evaluate user engagement metrics.
 - Built an interactive Tableau dashboard with KPI cards and dynamic filters.
-- Developed a machine learning model to predict video completion.
-- Created an end-to-end analytics workflow from data generation to visualization.
+- Developed a machine learning classification model to predict video completion.
+- Designed an end-to-end analytics workflow from data generation to visualization.
 
 ## Project Overview
 
@@ -40,6 +40,11 @@ The project demonstrates a complete analytics workflow, including:
 - NumPy
 - Scikit-learn
 - Faker
+
+---
+## Dataset
+
+This project uses a synthetically generated dataset that simulates user interactions on a short-video platform. The data includes user demographics, video metadata, engagement events, watch time, device information, and user attributes for analytics and machine learning purposes.
 
 ---
 
@@ -101,11 +106,11 @@ Product-Analytics-Case-Study/
 
 ## Key Insights
 
-- Gaming videos have the highest average watch time.
-- Average watch time remains consistent across devices.
-- User engagement is similar across countries.
-- Monthly views remain relatively stable after initial growth.
-- Completion rates are consistent across content categories.
+- Gaming content achieved the highest average watch time among all categories.
+- User engagement remained consistent across different devices.
+- Average watch time showed minimal variation across countries.
+- Monthly views increased steadily before stabilizing over time.
+- Video completion rates were relatively consistent across content categories.
 
 ---
 
@@ -115,5 +120,5 @@ Product-Analytics-Case-Study/
 
 MS in Analytics  
 University of Southern California
-- GitHub: https://github.com/dbasavar25
-- LinkedIn: https://www.linkedin.com/in/disha-basavaraju-8792a0241
+- GitHub: [dbasavar25](https://github.com/dbasavar25)
+- LinkedIn: [Disha Basavaraju](https://www.linkedin.com/in/disha-basavaraju-8792a0241)
