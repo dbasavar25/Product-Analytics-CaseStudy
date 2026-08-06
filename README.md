@@ -8,6 +8,14 @@ An end-to-end Product Analytics project built using Python, SQL, Machine Learnin
 
 ---
 
+## Project Highlights
+
+- Generated a synthetic dataset with over 680,000 user interaction events.
+- Performed SQL-based product analytics to evaluate engagement metrics.
+- Built an interactive Tableau dashboard with KPI cards and dynamic filters.
+- Developed a machine learning model to predict video completion.
+- Created an end-to-end analytics workflow from data generation to visualization.
+
 ## Project Overview
 
 This project simulates user interaction data from a short-video platform and analyzes user behavior using SQL and Tableau. A machine learning model is also developed to predict whether a user is likely to complete watching a video.
@@ -62,21 +70,18 @@ The project demonstrates a complete analytics workflow, including:
 
 ## Machine Learning
 
-A classification model was developed to predict whether a user will complete watching a video.
+A classification model was developed using Scikit-learn to predict whether a user would complete watching a video based on user behavior and video characteristics.
 
-Target Variable:
-- `Watch Completed`
+Target:
+- Watch Completed
 
 Example Features:
 - Watch Time
 - Video Duration
 - Device
 - Category
-- User Type
-- Hashtags
+- Premium User
 - Verified Creator
-
----
 
 ## Repository Structure
 
@@ -110,3 +115,5 @@ Product-Analytics-Case-Study/
 
 MS in Analytics  
 University of Southern California
+- GitHub: https://github.com/dbasavar25
+- LinkedIn: https://www.linkedin.com/in/disha-basavaraju-8792a0241
